@@ -25,22 +25,22 @@ export default function Index() {
     {
       id: '1',
       dishName: 'Boerewors & Pap',
-      description: 'Traditional South African sausage served with creamy pap and spicy chakalaka.',
+      description: 'Traditional South African sausage served with creamy pap and spicy chakalaka. A beloved braai-side classic featuring robust, coarsely ground boerewors spiced with coriander, cloves, and nutmeg.',
       course: 'Starter',
       price: '55.00',
     },
     {
       id: '2',
       dishName: 'Bobotie Spring Rolls',
-      description: 'Crispy spring rolls filled with spiced beef bobotie mix, served with yellow rice.',
+      description: 'Crispy spring rolls filled with spiced beef bobotie mix, served with yellow rice. A modern fusion of South African flavors featuring aromatic, Cape Malay-spiced beef wrapped in golden, crunchy pastry.',
       course: 'Starter',
       price: '45.00',
     },
      {
      id: '3',
       dishName: 'Lamb Sosaties',
-      description: 'Tender lamb skewers marinated in Cape malay spices, served with basmati rice.',
-      course: 'Main',
+      description: 'Traditional South African Tender skewers featuring lamb marinated in sweet and spicy curry sauce, served over a bed of fragrant basmati rice to absort the rich Cape Malay spices.',
+      course: 'Main Course',
       price: '85.00',  
     }
   ]);
