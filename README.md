@@ -16,6 +16,10 @@ Tech Stack & Dependencies
 * Language: TypeScript (`.tsx`)
 * Components: `FlatList`, `SafeAreaView`, `KeyboardAvoidingView`, `Alert`
 
+video link 
+https://youtu.be/i56o4Y-W4ek?si=0xhFPLC1FpecVmEW
 
+Github link
+: https://github.com/masehlalehumo-pixel/ChefsMenuApp-_-ST10536487-_-MAST5112-PoE-Part-2
 
 
