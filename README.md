@@ -1,4 +1,4 @@
-# Chef's Menu Board (MAST5112 PoE Part 2)
+# Chef's Menu Board (MAST5112 Portfolio of Evidence )
 
 An interactive, user-friendly mobile and web application built with **React Native** and **Expo**, designed for culinary professionals to manage, organize, and track restaurant menu items dynamically with authentic South African flair.
 
