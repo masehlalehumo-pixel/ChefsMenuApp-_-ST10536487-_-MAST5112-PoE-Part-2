@@ -1,8 +1,6 @@
-# Chef's Menu Board 🍳 (MAST5112 PoE Part 2)
+# Chef's Menu Board (MAST5112 PoE Part 2)
 
 An interactive, user-friendly mobile and web application built with **React Native** and **Expo**, designed for culinary professionals to manage, organize, and track restaurant menu items dynamically with authentic South African flair.
-
----
 
 ## Features
 
@@ -12,16 +10,12 @@ An interactive, user-friendly mobile and web application built with **React Nati
 * **Deletion Safeguards:** Interactive confirmation alerts prevent accidental deletions by prompting users with the specific name of the dish before removal.
 * **Form Validation:** Built-in safeguards ensure all required text fields are populated and prices are valid positive numbers before submission.
 
----
-
 ## Tech Stack & Dependencies
 
 * **Framework:** React Native (Expo SDK)
 * **Language:** TypeScript (`.tsx`)
 * **Core Components:** `FlatList`, `SafeAreaView`, `KeyboardAvoidingView`, `Alert`, `ScrollView`, `TextInput`
 * **State Management:** React Hooks (`useState`)
-
----
 
 ## Challenges & Solutions Faced During Development
 
@@ -48,7 +42,5 @@ Throughout this project, they were a couple of technical difficulties that I enc
 
 * **GitHub Repository:** [ChefsMenuApp GitHub Link]:  https://github.com/masehlalehumo-pixel/ChefsMenuApp-_-ST10536487-_-MAST5112-PoE-Part-2
 * **Video Demonstration:** [YouTube Video Link]: https://youtu.be/i56o4Y-W4ek?si=0xhFPLC1FpecVmEW
-
----
 
 
